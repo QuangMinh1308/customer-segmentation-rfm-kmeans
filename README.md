@@ -1,4 +1,4 @@
-# 🛍️ DACS — Ứng dụng K-Means và RFM: Chiến Lược Phân Khúc Khách Hàng Hiệu Quả
+# 🛍️ Ứng dụng K-Means và RFM: Chiến Lược Phân Khúc Khách Hàng Hiệu Quả
 
 *(Applying K-Means and RFM for Effective Customer Segmentation Strategy)*
 
