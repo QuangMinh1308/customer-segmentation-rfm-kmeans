@@ -149,24 +149,6 @@ DACS/
 
 ---
 
-## 🚀 Hướng dẫn chạy
-
-```bash
-# Clone repository
-git clone https://github.com/theanh-2k4/DACS.git
-cd DACS
-
-# Cài đặt thư viện cần thiết
-pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
-
-# Chạy lần lượt các notebook theo thứ tự:
-# 1. cleandata.ipynb       -> làm sạch dữ liệu
-# 2. RFM_Analysis.ipynb    -> tính chỉ số RFM
-# 3. k_means_TN_3.ipynb    -> phân cụm & trực quan hóa kết quả
-```
-
----
-
 ## 📊 Đánh giá & Hạn chế
 
 **Đạt được:**
@@ -185,16 +167,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
 
 ---
 
-## 👨‍💻 Tác giả
-
-- **Hoàng Quang Minh** — 2286400017
-- **Nguyễn Nhật Nam** — 2286400019
-- **Hà Thế Anh** — 2286400002
-
-
-
----
-
-## 📄 Tài liệu tham khảo
-
-Các khái niệm và kỹ thuật trong dự án được tham khảo từ nhiều nguồn uy tín về RFM, K-Means, phân tích hành vi khách hàng và các phương pháp đánh giá phân cụm (TechTarget, Harvard Business Review, Bain & Company, cùng các tài liệu chuyên môn về PCA, t-SNE).
