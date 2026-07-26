@@ -1,6 +1,6 @@
 # 🛍️ Ứng dụng K-Means và RFM: Chiến Lược Phân Khúc Khách Hàng Hiệu Quả
 
-*(Applying K-Means and RFM for Effective Customer Segmentation Strategy)*
+*Applying K-Means and RFM for Effective Customer Segmentation Strategy*
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/Model-K--Means-orange?style=for-the-badge)](https://scikit-learn.org/)
